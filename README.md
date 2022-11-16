@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
-</p>
 
 # Simple Shell project 0x16.c - Sodash -
 
@@ -265,9 +262,9 @@ $
 
 ## Authors & Copyrights
 
-* Luis chaparro <[luischaparroc](https://github.com/luischaparroc)>
-* Edward Ortiz <[edward0rtiz](https://github.com/edward0rtiz)>
+* Ezeoha Juliet Chinyere <[ezeohajuliet](https://github.com/ezeohajuliet)>
+* Kelechi Martins Ikechuwu <[KcMartins](https://github.com/KcMartins)>
 
 ## More information
 
-**Sodash** is a simple shell unix command interpreter that is part of the holberton low level programming module at Holberton School and is intended to emulate the basics **sh** shell. All the information given in this README is based on the **sodash** and **bash** man (1) pages.
+**Sodash** is a simple shell unix command interpreter that is part of the ALX low level programming module at ALX School and is intended to emulate the basics **sh** shell. All the information given in this README is based on the **sodash** and **bash** man (1) pages.
